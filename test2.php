@@ -8,6 +8,7 @@
 <body>
     <?php
        echo "Welcome to Git Hub";
+       print_r("hello");
     ?>
 </body>
 </html>
